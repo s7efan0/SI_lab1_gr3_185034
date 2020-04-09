@@ -4,7 +4,7 @@ class Item {
 	double price;
 
 	//TODO add variable.
-
+	char taxType;
 	//TODO constructor
 
 	//TODO setters and getters
